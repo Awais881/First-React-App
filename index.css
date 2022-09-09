@@ -1,0 +1,39 @@
+ .first{
+  text-align: center;
+ }
+.name{
+  background-color: darkcyan;
+  width: 100%;
+  height: 80px;
+  padding: 10px;
+  margin: 0px;
+  font-size: 25px;
+} 
+/*
+.info>ul{
+  display: flex;
+  justify-content: space-between;
+  background-color: darkgray;
+}
+li{
+  
+ list-style: none; 
+}
+.info{
+    background-color: darkcyan;
+   height: 120px;
+}
+.headings{
+  background-color: darkcyan;
+  height: 120px;
+  padding: 10px;
+}
+p{
+  background-color: darkgray;
+
+}
+ul>li{
+  background-color: darkgray;
+  width: 100%;
+
+} */
