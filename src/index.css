@@ -1,0 +1,11 @@
+.first{
+  text-align: center;
+ }
+.name{
+  background-color: darkcyan;
+  width: 100%;
+  height: 80px;
+  padding: 10px;
+  margin: 0px;
+  font-size: 25px;
+} 
